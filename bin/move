@@ -3,3 +3,19 @@
 require_relative '../lib/move.rb'
 
 # Code your CLI Here
+ 
+puts "Welcome to Tic Tac Toe!
+Where would you like to go?(1-9)"
+move = gets.strip
+input_to_index(user_input)
+
+
+
+
+
+
+# puts "Hi! I'm HAL, what's your name?"
+# name = gets.strip
+# greeting(name)
+
+
